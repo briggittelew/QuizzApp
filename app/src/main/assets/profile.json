@@ -1,0 +1,20 @@
+[
+  {
+    "id":0,
+    "profile": "Ralph Wiggum",
+    "description": "No te enteras de nada, por favor sacate el dedo de la nariz",
+    "image": "https://static.wikia.nocookie.net/lossimpson/images/1/14/Ralph_Wiggum.png/revision/latest/scale-to-width-down/284?cb=20150426070659&path-prefix=es"
+  },
+  {
+    "id": 1,
+    "profile": "Homer Simpson",
+    "description": "Sabes lo suficiente para liarla en la ciudad, solo no olvides a ninguno de tus hijos",
+    "image": "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/scale-to-width-down/350?cb=20100522180809&path-prefix=es"
+  },
+  {
+    "id": 2,
+    "profile": "Professor Frink",
+    "description": "Eres un genio! no se te escapa nada, excepto por aquella chica que no volvera jamas! Buscate una vida!",
+    "image": "https://static.wikia.nocookie.net/lossimpson/images/0/06/Professor_Frink.png/revision/latest/scale-to-width-down/160?cb=20091213233855&path-prefix=es"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064172973906",
+    "firebase_url": "https://simpsons-345115-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "simpsons-345115",
+    "storage_bucket": "simpsons-345115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064172973906:android:7e93440a29dd8fbb55148b",
+        "android_client_info": {
+          "package_name": "com.briggittelew.quizzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064172973906-a5hhujfvksq6m3dsb9uqn4dppoa5tkmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBb7D5Zs6x7-1ojlKhHl3esCTNiU65i7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064172973906-a5hhujfvksq6m3dsb9uqn4dppoa5tkmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
